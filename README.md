@@ -15,7 +15,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aayush-29&show_icons=true&cache_seconds=86400)
+![My Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=aayush-29&theme=dark&stats=true)
 
 ![Isometric Contributions](https://isometric-contributions.vercel.app/api/aayush-29)
 [Spotify recently played embed here]
