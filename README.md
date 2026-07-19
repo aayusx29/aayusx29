@@ -35,7 +35,7 @@ I'm a beginner learning my way through **Python**, currently focused on **data s
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
