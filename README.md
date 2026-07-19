@@ -1,7 +1,33 @@
-### 👋 Hi, I'm Aayush
+### Hi, I'm Aayush 👋
 
+I'm a beginner learning my way through **Python**, currently focused on **data structures and problem solving**. My future goal is to expand into **C** and **Java**.
 
+---
 
+### 🌱 What I'm Doing
+
+- 📘 Learning Python — currently practicing data structures and problem solving
+- 🎯 Planning to learn **C** and **Java** next
+- 🛠️ Building small projects along the way to apply what I learn
+- 📚 Always open to feedback on my code — I'm here to learn!
+
+---
+
+### 💻 Tech I'm Learning
+
+- Python
+- (Up next) C
+- (Up next) Java
+- MySQL(Database)
+
+---
+
+### 📫 Reach Me
+
+- **LinkedIn:** [linkedin.com/in/aayush-ghosh-a9b446234](https://www.linkedin.com/in/aayush-ghosh-a9b446234)
+- **Email:** aayush.ghosh80@gmail.com
+
+---
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aayush-29&theme=radical)
 
@@ -17,4 +43,3 @@ No activity tracked
 
 ![My Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=aayush-29&theme=neon&stats=true&width=700&height=350)
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313tasvmbn37hseq42ctwlp4c57u?si=afef97da3bbf4079)](https://open.spotify.com/user/313tasvmbn37hseq42ctwlp4c57u?si=afef97da3bbf4079)
