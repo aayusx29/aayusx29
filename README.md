@@ -17,4 +17,4 @@ No activity tracked
 
 ![My Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=aayush-29&theme=neon&stats=true&width=700&height=350)
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=aayush.ghosh80@gmail.com)](https://open.spotify.com/user/aayush.ghosh80@gmail.com)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=313tasvmbn37hseq42ctwlp4c57u?si=afef97da3bbf4079)](https://open.spotify.com/user/313tasvmbn37hseq42ctwlp4c57u?si=afef97da3bbf4079)
