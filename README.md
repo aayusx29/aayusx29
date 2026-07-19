@@ -17,6 +17,4 @@ No activity tracked
 
 ![My Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=aayush-29&theme=dark&stats=true)
 
-![Isometric Contributions](https://isometric-contributions.vercel.app/api/aayush-29)
-[Spotify recently played embed here]
-[Custom anime/stock widgets here]
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Hello world)](https://open.spotify.com/user/Hello world)
