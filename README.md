@@ -26,7 +26,7 @@ I'm a beginner learning my way through **Python**, currently focused on **data s
 
 - **LinkedIn:** [linkedin.com/in/aayush-ghosh-a9b446234](https://www.linkedin.com/in/aayush-ghosh-a9b446234)
 - **Email:** aayush.ghosh80@gmail.com
-- **Portfolio:** https://aayusx29.github.io/aayush-29.github.io/
+- **Portfolio:** https://aayusx29.github.io/aayusx29.github.io/
 ---
 
 ✅[![GitHub Streak](https://streak-stats.demolab.com/?user=aayusx29&theme=tokyonight)](https://git.io/streak-stats)
