@@ -29,7 +29,7 @@ I'm a beginner learning my way through **Python**, currently focused on **data s
 - **Portfolio:** https://aayusx29.github.io/aayush-29.github.io/
 ---
 
-✅ ![Streak](https://streak-stats.demolab.com/?user=aayusx29&theme=radical)
+✅![Streak](https://streak-stats.demolab.com/?user=aayusx29&theme=radical&v=3)
 
 
 <!--START_SECTION:waka-->
