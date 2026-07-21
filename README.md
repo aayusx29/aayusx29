@@ -1,6 +1,6 @@
 ### Hi, I'm Aayush 👋
 
-I'm a beginner learning my way through **Python**, currently focused on **data structures and problem solving**. My future goal is to expand into **C** and **Java**.
+I'm a beginner learning my way through **Python**, currently focused on **data structures and problem solving**.
 
 ---
 
