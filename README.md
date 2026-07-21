@@ -45,5 +45,5 @@ Other        0 secs                ░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-![My Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=aayush-29&theme=neon&stats=true&width=700&height=350)
+![My Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=aayusx29&theme=neon&stats=true&width=700&height=350)
 
