@@ -50,11 +50,11 @@ I am building small projects along the way to apply what I learn, I'm currently 
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 57 mins          ███████████▒░░░░░░░░░░░░░   45.52 %
-Python       1 hr 37 mins          █████████▒░░░░░░░░░░░░░░░   37.76 %
-JavaScript   37 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Java         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-CSS          1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+HTML         2 hrs 50 mins         ████████████▒░░░░░░░░░░░░   49.47 %
+Python       2 hrs 11 mins         █████████▓░░░░░░░░░░░░░░░   38.06 %
+JavaScript   37 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+Java         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+CSS          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
