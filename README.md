@@ -3,7 +3,7 @@
 
 ### Hi, I'm Aayush 👋
 
-## I'm a B.tech(AE) Student, Learning language, database and different tools to apply them in my future projects**.
+## I'm a B.tech(AE) Student, Learning language, database and different tools to apply them in my future projects.
 
 </div>
 
