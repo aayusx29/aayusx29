@@ -50,7 +50,8 @@ I am building small projects along the way to apply what I learn, I'm currently 
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   0 secs                ██████████████████▒░░░░░░   73.76 %
+Python     0 secs                ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
 ```
 
 <!--END_SECTION:waka-->
